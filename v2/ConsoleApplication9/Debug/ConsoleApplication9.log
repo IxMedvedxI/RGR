@@ -1,0 +1,3 @@
+﻿  ConsoleApplication9.cpp
+E:\проги\v2\ConsoleApplication9\ConsoleApplication9.cpp(7,6): warning C4101: xin: неиспользованная локальная переменная
+  ConsoleApplication9.vcxproj -> E:\проги\v2\Debug\ConsoleApplication9.exe

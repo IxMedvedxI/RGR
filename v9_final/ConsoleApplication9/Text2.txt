@@ -1,0 +1,6 @@
+kiev	1	4 
+tver	1	25 
+tver	2	5 
+Moskva	23	3 
+Moskva	224	23 
+Piter	253	16 
