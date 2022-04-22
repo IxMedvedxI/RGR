@@ -17,4 +17,5 @@ int main()
 	cout << "\n"<<xin<<" " <<vokzal[vokzal.poisk(t)];
 
 
+
 }
